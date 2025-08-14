@@ -40,7 +40,7 @@ This repository documents the process, solutions, and analysis for various SOC B
   - Tactics Execution, Credential Access with Screenshots and explanations of each stage in the investigation.
 
 ---
-  - ### 4. Fake ChatGPT Phishing Lab Walkthrough
+### 4. Fake ChatGPT Phishing Lab Walkthrough
 
 - **Platform:** https://cyberdefenders.org/blueteam-ctf-challenges/fakegpt/
 - **Walkthrough:**
