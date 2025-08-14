@@ -18,7 +18,7 @@ This repository documents the process, solutions, and analysis for various SOC B
 
 - **Report:**  
   - [The Report 11 (PDF)](https://github.com/Samoateine1/Pwned-Labs-Simply-Cyber-Academy/blob/main/The_Report_11.pdf)
-  - 
+  - Amadey_Lab_Walkthrough.pdf
   - The _Insider_Lab_-_Walk_through_.pdf
 
 ---
