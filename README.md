@@ -30,6 +30,16 @@ This repository documents the process, solutions, and analysis for various SOC B
 
 ---
 
+### 2. Amadey Lab Analysis  
+- **Platform:** [CyberDefenders - The Insider Challenge](https://cyberdefenders.org/blueteam-ctf-challenges/theinsider/)  
+- **Walkthrough:**  
+  - Step-by-step analysis of the Amadey malware case.
+  - Investigation of network traffic, logs, and artifacts related to the infection.
+  - Explanation of the tools and techniques used for detection and remediation.
+
+---
+
+
 ## Structure
 
 Each challenge contains:
