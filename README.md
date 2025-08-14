@@ -40,6 +40,19 @@ This repository documents the process, solutions, and analysis for various SOC B
   - Tactics Execution, Credential Access with Screenshots and explanations of each stage in the investigation.
 
 ---
+  - ### 4. Fake ChatGPT Phishing Lab Walkthrough
+
+- **Platform:** https://cyberdefenders.org/blueteam-ctf-challenges/fakegpt/
+- **Walkthrough:**
+  - This challenge simulates a phishing attack using a fake ChatGPT interface.
+  - The provided PDF, `_Fake_Chatgpt.pdf`, contains screenshots and a step-by-step investigation into how the phishing attempt was identified, analyzed, and mitigated.
+  - The walkthrough covers:
+    - Identification of suspicious activity related to the fake ChatGPT page.
+    - Analysis of network indicators and endpoint artifacts.
+    - Steps for incident response and user awareness.
+    - Recommendations for detection and prevention of similar phishing attacks.
+  - **Report:**  
+    - [_Fake_Chatgpt.pdf](https://github.com/Samoateine1/Pwned-Labs-Simply-Cyber-Academy/blob/main/_Fake_Chatgpt.pdf)
 
 
 ## Structure
