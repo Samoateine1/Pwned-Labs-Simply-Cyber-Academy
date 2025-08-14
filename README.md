@@ -1,4 +1,4 @@
-# Pwned-Labs-Simply-Cyber-Academy - SOC Blue  
+# CyberDefender Blue Team Labs - SOC Blue  
 ## Walkthrough Lab Challenges
 
 **Written by Hope**
