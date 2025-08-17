@@ -21,7 +21,7 @@ This repository documents the process, solutions, and analysis for various SOC B
   - Amadey_Lab_Walkthrough.pdf https://github.com/Samoateine1/Pwned-Labs-Simply-Cyber-Academy/blob/main/Amadey_Lab_Walkthrough.pdf
   - The _Insider_Lab_-_Walk_through_.pdf https://github.com/Samoateine1/Pwned-Labs-Simply-Cyber-Academy/blob/main/The%20_Insider_Lab_-_Walk_through_.pdf
   - [_Fake_Chatgpt.pdf](https://github.com/Samoateine1/Pwned-Labs-Simply-Cyber-Academy/blob/main/_Fake_Chatgpt.pdf)
-
+  - [GrabThePhisher_Lab.pdf](https://github.com/Samoateine1/Pwned-Labs-Simply-Cyber-Academy/blob/12f83f2459d4bf43f0ce11cb06bbbab808b1aaff/GrabThePhisher_Lab.pdf)
 ---
 
 ### 2. Amadey Lab Analysis  
@@ -52,7 +52,15 @@ This repository documents the process, solutions, and analysis for various SOC B
     - Analysis of network indicators and endpoint artifacts.
     - Steps for incident response and user awareness.
     - Recommendations for detection and prevention of similar phishing attacks.
-  -
+      
+  ---
+### 5. GrabThePhisher Lab Report
+
+- **Platform:** [CyberDefenders - GrabThePhisher Challenge](https://cyberdefenders.org/blueteam-ctf-challenges/grabthephisher/)
+- **Walkthrough:**
+  - Analysis and investigation of the GrabThePhisher challenge scenario.
+  - Step-by-step documentation of forensic techniques, detection, and response.
+  - Key findings and incident timeline reconstruction.
 
 
 ## Structure
@@ -60,7 +68,7 @@ This repository documents the process, solutions, and analysis for various SOC B
 Each challenge contains:
 - Introduction and objectives
 - Methodology and tools used
-- Step-by-step walkthrough with analysis
+- Step-by-step walkthrough with analysis research
 - Key findings and lessons learned
 - Relevant screenshots and supporting files (where applicable)
 - Links to detailed reports
