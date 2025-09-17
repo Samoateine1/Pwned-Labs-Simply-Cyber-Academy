@@ -62,6 +62,20 @@ This repository documents the process, solutions, and analysis for various SOC B
   - Analysis and investigation of the GrabThePhisher challenge scenario.
   - Step-by-step documentation of forensic techniques, detection, and response.
   - Key findings and incident timeline reconstruction.
+ 
+### 6. KQL - Titan Shield (with Microsoft Defender XDR) (KC7 challenge: 
+-
+- **Platform:** https://kc7cyber.com/go/titan
+- **Walkthrough:**
+  - A cyber detective game, useful for SOC Analysts also learn to use Microsoft Defender XDR Threat Intelligence to enhance an investigation
+  - The provided PDF,contains screenshots and a step-by-step investigation into the case scenario
+  - The walkthrough covers:
+    - Identification of suspicious activity related to the fake ChatGPT page.
+    - Analysis of network indicators and endpoint artifacts.
+    - Steps for incident response and user awareness.
+    - Recommendations for detection and prevention of similar phishing attacks.
+      
+  ---
 
 
 ## Structure
