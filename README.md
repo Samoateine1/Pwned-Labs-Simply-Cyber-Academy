@@ -71,7 +71,7 @@ This repository documents the process, solutions, and analysis for various SOC B
   - The walkthrough covers:
     - Identification of suspicious activity related to the .
     - Steps for incident response and user awareness.
-    - Recommendations for detection and prevention of similar phishing attacks.
+    - Recommendations for detection and prevention of similar attacks.
       
   ---
 
