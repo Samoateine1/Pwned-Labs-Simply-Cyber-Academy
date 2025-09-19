@@ -17,12 +17,12 @@ This repository documents the process, solutions, and analysis for various SOC B
   - Screenshots and explanations of each stage in the investigation.
 
 - **Report:**  
-  - [The Report 11 (PDF)](https://github.com/Samoateine1/Pwned-Labs-Simply-Cyber-Academy/blob/main/The_Report_11.pdf)
-  - Amadey_Lab_Walkthrough.pdf https://github.com/Samoateine1/Pwned-Labs-Simply-Cyber-Academy/blob/main/Amadey_Lab_Walkthrough.pdf
-  - The _Insider_Lab_-_Walk_through_.pdf https://github.com/Samoateine1/Pwned-Labs-Simply-Cyber-Academy/blob/main/The%20_Insider_Lab_-_Walk_through_.pdf
-  - [_Fake_Chatgpt.pdf](https://github.com/Samoateine1/Pwned-Labs-Simply-Cyber-Academy/blob/main/_Fake_Chatgpt.pdf)
-  - [GrabThePhisher_Lab.pdf](https://github.com/Samoateine1/Pwned-Labs-Simply-Cyber-Academy/blob/12f83f2459d4bf43f0ce11cb06bbbab808b1aaff/GrabThePhisher_Lab.pdf)
-  - https://github.com/Samoateine1/Pwned-Labs-Simply-Cyber-Academy/blob/main/DanaBot_Lab.pdf
+  - The_Report_11.pdf
+  - Amadey_Lab_Walkthrough.pdf
+  - The Insider_Lab_-_Walk_through_.pdf
+  - Fake_Chatgpt.pdf
+  - GrabThePhisher_Lab.pdf
+  - DanaBot_Lab.pdf
 ---
 
 ### 2. Amadey Lab Analysis  
@@ -69,7 +69,7 @@ This repository documents the process, solutions, and analysis for various SOC B
   - A cyber detective game, useful for SOC Analysts also learn to use Microsoft Defender XDR Threat Intelligence to enhance an investigation
   - The provided PDF,contains screenshots and a step-by-step investigation into the case scenario
   - The walkthrough covers:
-    - Identification of suspicious activity related to the .
+    - Identification of suspicious activity related to the attack.
     - Steps for incident response and user awareness.
     - Recommendations for detection and prevention of similar attacks.
       
