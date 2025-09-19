@@ -9,13 +9,6 @@ This repository documents the process, solutions, and analysis for various SOC B
 
 ## Challenges Covered
 
-### 1. The Report II  
-- **Platform:** [Blue Team Labs Online - The Report II Challenge](https://blueteamlabs.online/home/challenge/the-report-ii-82ea7781c5)  
-- **Walkthrough:**  
-  - Detailed step-by-step guide on solving "The Report II".
-  - Techniques used for log analysis, threat hunting, and incident response.
-  - Screenshots and explanations of each stage in the investigation.
-
 - **Report:**  
   - The_Report_11.pdf https://github.com/Samoateine1/Pwned-Labs-Simply-Cyber-Academy/blob/main/The_Report_11.pdf
   - Amadey_Lab_Walkthrough.pdf https://github.com/Samoateine1/Pwned-Labs-Simply-Cyber-Academy/blob/main/Amadey_Lab_Walkthrough.pdf
@@ -23,6 +16,13 @@ This repository documents the process, solutions, and analysis for various SOC B
   - Fake_Chatgpt.pdf https://github.com/Samoateine1/Pwned-Labs-Simply-Cyber-Academy/blob/main/_Fake_Chatgpt.pdf
   - GrabThePhisher_Lab.pdf https://github.com/Samoateine1/Pwned-Labs-Simply-Cyber-Academy/blob/main/_Fake_Chatgpt.pdf
   - DanaBot_Lab.pdf https://github.com/Samoateine1/Pwned-Labs-Simply-Cyber-Academy/blob/main/DanaBot_Lab.pdf
+  - 
+### 1. The Report II  
+- **Platform:** [Blue Team Labs Online - The Report II Challenge](https://blueteamlabs.online/home/challenge/the-report-ii-82ea7781c5)  
+- **Walkthrough:**  
+  - Detailed step-by-step guide on solving "The Report II".
+  - Techniques used for log analysis, threat hunting, and incident response.
+  - Screenshots and explanations of each stage in the investigation.
 ---
 
 ### 2. Amadey Lab Analysis  
