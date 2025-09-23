@@ -14,7 +14,7 @@ This repository documents the process, solutions, and analysis for various SOC B
   - Amadey_Lab_Walkthrough.pdf https://github.com/Samoateine1/Pwned-Labs-Simply-Cyber-Academy/blob/main/Amadey_Lab_Walkthrough.pdf
   - The Insider_Lab.pdf https://github.com/Samoateine1/Pwned-Labs-Simply-Cyber-Academy/blob/main/The%20_Insider_Lab_-_Walk_through_.pdf
   - Fake_Chatgpt.pdf https://github.com/Samoateine1/Pwned-Labs-Simply-Cyber-Academy/blob/main/_Fake_Chatgpt.pdf
-  - GrabThePhisher_Lab.pdf https://github.com/Samoateine1/Pwned-Labs-Simply-Cyber-Academy/blob/main/_Fake_Chatgpt.pdf
+  - GrabThePhisher_Lab.pdf https://github.com/Samoateine1/Pwned-Labs-Simply-Cyber-Academy/blob/main/GrabThePhisher_Lab.pdf
   - DanaBot_Lab.pdf https://github.com/Samoateine1/Pwned-Labs-Simply-Cyber-Academy/blob/main/DanaBot_Lab.pdf
   - 
 ### 1. The Report II  
