@@ -16,6 +16,7 @@ This repository documents the process, solutions, and analysis for various SOC B
   - Fake_Chatgpt.pdf https://github.com/Samoateine1/Pwned-Labs-Simply-Cyber-Academy/blob/main/_Fake_Chatgpt.pdf
   - GrabThePhisher_Lab.pdf https://github.com/Samoateine1/Pwned-Labs-Simply-Cyber-Academy/blob/main/GrabThePhisher_Lab.pdf
   - DanaBot_Lab.pdf https://github.com/Samoateine1/Pwned-Labs-Simply-Cyber-Academy/blob/main/DanaBot_Lab.pdf
+  - Titan Shield https://github.com/Samoateine1/Pwned-Labs-Simply-Cyber-Academy/blob/main/KQL_exercise_from_KC7_challenge_-_TitanShield.pdf
   - 
 ### 1. The Report II  
 - **Platform:** [Blue Team Labs Online - The Report II Challenge](https://blueteamlabs.online/home/challenge/the-report-ii-82ea7781c5)  
