@@ -1,6 +1,6 @@
-# CyberDefender Blue Team Labs - SOC Blue  
+# CyberDefender Blue Team Labs - SOC Blue 
+# Lab Offical walkthrough notes by HTB & Challenge Screenshots by Hope's Lab
 ## Walkthrough Lab Challenges
-
 **Written by Hope**
 
 This repository documents the process, solutions, and analysis for various SOC Blue lab challenges. The walkthroughs cover how challenges were solved, edited, created, and analyzed, providing insights into blue team methodologies and incident response techniques.
@@ -89,7 +89,7 @@ Each challenge contains:
 
 ---
 
-## Author
+## Credits goes to HTB 
 
 Hope
 
