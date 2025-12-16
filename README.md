@@ -77,12 +77,17 @@ This repository documents the process, solutions, and analysis for various SOC B
 # Lab Offical walkthrough notes by HTB & Challenge Screenshots by Hope's Lab
 ## Credits goes to HTB 
 
-
 ---
-
+https://github.com/Samoateine1/Pwned-Labs-Simply-Cyber-Academy/blob/main/Crocodile_htb.pdf
+https://github.com/Samoateine1/Pwned-Labs-Simply-Cyber-Academy/blob/main/Pennyworth_htb.pdf
+https://github.com/Samoateine1/Pwned-Labs-Simply-Cyber-Academy/blob/main/Preignition_htb.pdf
+https://github.com/Samoateine1/Pwned-Labs-Simply-Cyber-Academy/blob/main/Responder_htb.pdf
+https://github.com/Samoateine1/Pwned-Labs-Simply-Cyber-Academy/blob/main/Synced_htb.pdf
+https://github.com/Samoateine1/Pwned-Labs-Simply-Cyber-Academy/blob/main/Preignition_htb.pdf
+https://github.com/Samoateine1/Pwned-Labs-Simply-Cyber-Academy/blob/main/Tactics_htb_machine.pdf
 
 Hope
 
 ---
 
-*This repository is intended for educational purposes to help blue teamers and SOC analysts improve their skills in digital forensics and incident response. For detailed analysis, refer to the provided PDF reports and walkthroughs.*
+*This repository is intended for educational purposes Red and SOC analysts improve their skills in digital forensics and incident response. For detailed analysis, refer to the provided PDF reports and walkthroughs.*
