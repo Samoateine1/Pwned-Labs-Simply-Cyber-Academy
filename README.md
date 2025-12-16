@@ -78,13 +78,13 @@ This repository documents the process, solutions, and analysis for various SOC B
 ## Credits goes to HTB 
 
 ---
-https://github.com/Samoateine1/Pwned-Labs-Simply-Cyber-Academy/blob/main/Crocodile_htb.pdf
-https://github.com/Samoateine1/Pwned-Labs-Simply-Cyber-Academy/blob/main/Pennyworth_htb.pdf
-https://github.com/Samoateine1/Pwned-Labs-Simply-Cyber-Academy/blob/main/Preignition_htb.pdf
-https://github.com/Samoateine1/Pwned-Labs-Simply-Cyber-Academy/blob/main/Responder_htb.pdf
-https://github.com/Samoateine1/Pwned-Labs-Simply-Cyber-Academy/blob/main/Synced_htb.pdf
-https://github.com/Samoateine1/Pwned-Labs-Simply-Cyber-Academy/blob/main/Preignition_htb.pdf
-https://github.com/Samoateine1/Pwned-Labs-Simply-Cyber-Academy/blob/main/Tactics_htb_machine.pdf
+- https://github.com/Samoateine1/Pwned-Labs-Simply-Cyber-Academy/blob/main/Crocodile_htb.pdf
+- https://github.com/Samoateine1/Pwned-Labs-Simply-Cyber-Academy/blob/main/Pennyworth_htb.pdf
+- https://github.com/Samoateine1/Pwned-Labs-Simply-Cyber-Academy/blob/main/Preignition_htb.pdf
+- https://github.com/Samoateine1/Pwned-Labs-Simply-Cyber-Academy/blob/main/Responder_htb.pdf
+- https://github.com/Samoateine1/Pwned-Labs-Simply-Cyber-Academy/blob/main/Synced_htb.pdf
+- https://github.com/Samoateine1/Pwned-Labs-Simply-Cyber-Academy/blob/main/Preignition_htb.pdf
+- https://github.com/Samoateine1/Pwned-Labs-Simply-Cyber-Academy/blob/main/Tactics_htb_machine.pdf
 
 Hope
 
