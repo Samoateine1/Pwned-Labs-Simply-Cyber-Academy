@@ -75,7 +75,7 @@ This repository documents the process, solutions, and analysis for various SOC B
     - Recommendations for detection and prevention of similar attacks.
       
   ---
-# Lab Offical walkthrough notes by HTB & Challenge Screenshots by Hope's Lab
+# Lab Offical walkthrough notes by HTB & Challenge Screenshots from Hope's Lab
 ## Credits goes to HTB 
 
 ---
@@ -89,6 +89,8 @@ This repository documents the process, solutions, and analysis for various SOC B
 - Ignition_htb https://github.com/Samoateine1/Pwned-Labs-Simply-Cyber-Academy/blob/main/
 - Bike_htb https://github.com/Samoateine1/Pwned-Labs-Simply-Cyber-Academy/blob/main/Bike_htb.pdf
 - Mongod_htb https://github.com/Samoateine1/Pwned-Labs-Simply-Cyber-Academy/blob/main/Bike_htb.pdf
+
+
 Hope
 
 ---
