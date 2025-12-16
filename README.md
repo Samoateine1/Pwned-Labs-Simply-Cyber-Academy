@@ -86,7 +86,9 @@ This repository documents the process, solutions, and analysis for various SOC B
 - Synced_htb https://github.com/Samoateine1/Pwned-Labs-Simply-Cyber-Academy/blob/main/Synced_htb.pdf
 - Tactics_htb https://github.com/Samoateine1/Pwned-Labs-Simply-Cyber-Academy/blob/main/Tactics_htb_machine.pdf
 - Expressway_htb https://github.com/Samoateine1/Pwned-Labs-Simply-Cyber-Academy/blob/main/Expressway_htb.pdf
-- Ignition_htb https://github.com/Samoateine1/Pwned-Labs-Simply-Cyber-Academy/blob/main/Ignition_Writeup.pdf
+- Ignition_htb https://github.com/Samoateine1/Pwned-Labs-Simply-Cyber-Academy/blob/main/
+- Bike_htb https://github.com/Samoateine1/Pwned-Labs-Simply-Cyber-Academy/blob/main/Bike_htb.pdf
+- 
 
 Hope
 
