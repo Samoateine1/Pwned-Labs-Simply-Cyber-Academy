@@ -81,15 +81,14 @@ This repository documents the process, solutions, and analysis for various SOC B
 ---
 - Crocodile_htb https://github.com/Samoateine1/Pwned-Labs-Simply-Cyber-Academy/blob/main/Crocodile_htb.pdf
 - Pennyworth_htb https://github.com/Samoateine1/Pwned-Labs-Simply-Cyber-Academy/blob/main/Pennyworth_htb.pdf
-- Peignition_htb https://github.com/Samoateine1/Pwned-Labs-Simply-Cyber-Academy/blob/main/Preignition_htb.pdf
+- Preignition_htb https://github.com/Samoateine1/Pwned-Labs-Simply-Cyber-Academy/blob/main/Preignition_htb.pdf
 - Responder_htb https://github.com/Samoateine1/Pwned-Labs-Simply-Cyber-Academy/blob/main/Responder_htb.pdf
 - Synced_htb https://github.com/Samoateine1/Pwned-Labs-Simply-Cyber-Academy/blob/main/Synced_htb.pdf
 - Tactics_htb https://github.com/Samoateine1/Pwned-Labs-Simply-Cyber-Academy/blob/main/Tactics_htb_machine.pdf
 - Expressway_htb https://github.com/Samoateine1/Pwned-Labs-Simply-Cyber-Academy/blob/main/Expressway_htb.pdf
 - Ignition_htb https://github.com/Samoateine1/Pwned-Labs-Simply-Cyber-Academy/blob/main/
 - Bike_htb https://github.com/Samoateine1/Pwned-Labs-Simply-Cyber-Academy/blob/main/Bike_htb.pdf
-- 
-
+- Mongod_htb https://github.com/Samoateine1/Pwned-Labs-Simply-Cyber-Academy/blob/main/Bike_htb.pdf
 Hope
 
 ---
